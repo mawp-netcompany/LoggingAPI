@@ -1,0 +1,125 @@
+StartDateTime: 27-05-2022 10:53:47
+EndDateTime: 27-05-2022 10:53:47
+ElapsedTimeInMilliseconds: 31,9476
+EndUserName: System.Security.Claims.ClaimsPrincipal
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress::1
+serverIPAddress: ::1
+StartDateTime: 27-05-2022 12:39:09
+EndDateTime: 27-05-2022 12:39:09
+ElapsedTimeInMilliseconds: 27,9036
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+StartDateTime: 27-05-2022 12:39:52
+EndDateTime: 27-05-2022 12:39:52
+ElapsedTimeInMilliseconds: 42,0476
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+StartDateTime: 27-05-2022 12:56:56
+EndDateTime: 27-05-2022 12:56:56
+ElapsedTimeInMilliseconds: 19,3605
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+StartDateTime: 27-05-2022 12:57:18
+EndDateTime: 27-05-2022 12:57:25
+ElapsedTimeInMilliseconds: 6746,2221
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+StartDateTime: 27-05-2022 14:30:02
+EndDateTime: 27-05-2022 14:30:26
+ElapsedTimeInMilliseconds: 23401,9411
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+================
+StartDateTime: 27-05-2022 14:32:15
+EndDateTime: 27-05-2022 14:32:15
+ElapsedTimeInMilliseconds: 23,7428
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+================
+StartDateTime: 27-05-2022 14:51:01
+EndDateTime: 27-05-2022 14:51:01
+ElapsedTimeInMilliseconds: 28,5451
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+================
+StartDateTime: 27-05-2022 14:52:18
+EndDateTime: 27-05-2022 14:52:18
+ElapsedTimeInMilliseconds: 29,7112
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+================
+StartDateTime: 27-05-2022 14:52:51
+EndDateTime: 27-05-2022 14:52:51
+ElapsedTimeInMilliseconds: 24,6863
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+================
+StartDateTime: 27-05-2022 14:53:51
+EndDateTime: 27-05-2022 14:53:51
+ElapsedTimeInMilliseconds: 31,9032
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+================
+StartDateTime: 27-05-2022 14:54:06
+EndDateTime: 27-05-2022 14:54:06
+ElapsedTimeInMilliseconds: 30,8392
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
+================
+StartDateTime: 27-05-2022 14:59:01
+EndDateTime: 27-05-2022 14:59:01
+ElapsedTimeInMilliseconds: 38,2793
+Response: 200
+Request: GET
+Username: mawp
+SuccesfulIndicator: True
+ClientAddress: ::1
+serverIPAddress: ::1
